@@ -1,0 +1,4 @@
+C:\Users\56184436864\Documents\aula-backend\condicionalEX5\obj\Debug\net8.0\condicionalEX5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56184436864\Documents\aula-backend\condicionalEX5\obj\Debug\net8.0\condicionalEX5.AssemblyInfoInputs.cache
+C:\Users\56184436864\Documents\aula-backend\condicionalEX5\obj\Debug\net8.0\condicionalEX5.AssemblyInfo.cs
+C:\Users\56184436864\Documents\aula-backend\condicionalEX5\obj\Debug\net8.0\condicionalEX5.csproj.CoreCompileInputs.cache
