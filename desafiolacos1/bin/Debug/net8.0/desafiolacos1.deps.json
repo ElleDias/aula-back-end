@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafiolacos1/1.0.0": {
+        "runtime": {
+          "desafiolacos1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafiolacos1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

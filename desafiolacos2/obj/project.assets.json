@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\56184436864\\Documents\\aula-backend\\laçosexemplo\\laçosexemplo.csproj",
-      "projectName": "laçosexemplo",
-      "projectPath": "C:\\Users\\56184436864\\Documents\\aula-backend\\laçosexemplo\\laçosexemplo.csproj",
+      "projectUniqueName": "C:\\Users\\56184436864\\Documents\\aula-backend\\desafiolacos2\\desafiolacos2.csproj",
+      "projectName": "desafiolacos2",
+      "projectPath": "C:\\Users\\56184436864\\Documents\\aula-backend\\desafiolacos2\\desafiolacos2.csproj",
       "packagesPath": "C:\\Users\\56184436864\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\56184436864\\Documents\\aula-backend\\laçosexemplo\\obj\\",
+      "outputPath": "C:\\Users\\56184436864\\Documents\\aula-backend\\desafiolacos2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\56184436864\\AppData\\Roaming\\NuGet\\NuGet.Config",

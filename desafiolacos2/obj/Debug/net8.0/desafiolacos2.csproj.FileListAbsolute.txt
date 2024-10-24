@@ -1,0 +1,15 @@
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.AssemblyInfoInputs.cache
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.AssemblyInfo.cs
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.csproj.CoreCompileInputs.cache
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.sourcelink.json
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\bin\Debug\net8.0\desafiolacos2.exe
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\bin\Debug\net8.0\desafiolacos2.deps.json
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\bin\Debug\net8.0\desafiolacos2.runtimeconfig.json
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\bin\Debug\net8.0\desafiolacos2.dll
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\bin\Debug\net8.0\desafiolacos2.pdb
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.dll
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\refint\desafiolacos2.dll
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.pdb
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\desafiolacos2.genruntimeconfig.cache
+C:\Users\56184436864\Documents\aula-backend\desafiolacos2\obj\Debug\net8.0\ref\desafiolacos2.dll

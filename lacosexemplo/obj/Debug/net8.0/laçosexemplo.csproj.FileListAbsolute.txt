@@ -1,0 +1,15 @@
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.AssemblyInfoInputs.cache
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.AssemblyInfo.cs
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.csproj.CoreCompileInputs.cache
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.sourcelink.json
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\bin\Debug\net8.0\laçosexemplo.exe
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\bin\Debug\net8.0\laçosexemplo.deps.json
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\bin\Debug\net8.0\laçosexemplo.runtimeconfig.json
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\bin\Debug\net8.0\laçosexemplo.dll
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\bin\Debug\net8.0\laçosexemplo.pdb
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.dll
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\refint\laçosexemplo.dll
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.pdb
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\laçosexemplo.genruntimeconfig.cache
+C:\Users\56184436864\Documents\aula-backend\lacosexemplo\obj\Debug\net8.0\ref\laçosexemplo.dll
