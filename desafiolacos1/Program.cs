@@ -1,11 +1,19 @@
-﻿int homem = 0;
+﻿Console.WriteLine(@"
++--------------------------------------+
+|            SEJA BEM-VINDO            |
+|                                      |
+|             AO PROGRAMA              |
++--------------------------------------+
+");
+
+int homem = 0;
 int mulher = 0;
 float idadehomem = 0;
 float idademulher = 0;
 
-for (int n = 1; n <=10; n++)
+for (int n = 1; n <= 10; n++)
 {
-       Console.WriteLine($"Pessoa {i}");
+    Console.WriteLine($"Pessoa {i}");
     Console.WriteLine($"Qual sua idade?");
     float idade = float.Parse(Console.ReadLine());
 
@@ -14,16 +22,16 @@ for (int n = 1; n <=10; n++)
 
     Console.WriteLine($"Qual seu sexo? m/f");
     string sexo = Console.ReadLine()!;
-    
-    
-    if(sexo == "m")
+
+
+    if (sexo == "m")
     {
-        homem ++;
+        homem++;
         idadehomem += idade;
     }
-    else 
+    else
     {
-        mulher ++;
+        mulher++;
         idademulher += idade;
     }
 
