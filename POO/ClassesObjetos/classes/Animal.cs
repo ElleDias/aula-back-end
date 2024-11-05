@@ -12,6 +12,16 @@ namespace ClassesObjetos.classes
         public string raca;
         public string Cor;
         public string Nome;
-        public int Idade;
+        public int Idade =0;
+
+        public void FazerBarulho(string barulho = "Barulho genérico"){
+    Console.WriteLine($"Som que o/a {Nome} faz: {barulho} ");
+}
+    
+
+    public void Envelhecer()
+    {
+        Idade = Idade +1;
     }
+}
 }

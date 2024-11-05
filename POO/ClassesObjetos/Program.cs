@@ -18,7 +18,7 @@ Console.WriteLine($"idade da {cachorro.Nome}:{cachorro.Idade}");
 Console.WriteLine($"Raça da {cachorro.Nome}:{cachorro.raca}");
 Console.WriteLine($"cor da {cachorro.Nome}:{cachorro.Cor}");
 
-Console.WriteLine();
+Console.WriteLine("--------------------------------------------------------------------------------");
 Console.WriteLine(); 
 
 
@@ -33,3 +33,22 @@ Console.WriteLine($"Nome do Coelho:{coelho.Nome}");
 Console.WriteLine($"idade da {coelho.Nome}:{coelho.Idade}");
 Console.WriteLine($"Raça da {coelho.Nome}:{coelho.raca}");
 Console.WriteLine($"cor da {coelho.Nome}:{coelho.Cor}");
+
+Console.WriteLine("--------------------------------------------------------------------------------");
+Console.WriteLine(); 
+
+
+cachorro.FazerBarulho("AUAU");
+Console.WriteLine($"idade da {cachorro.Nome} e {cachorro.Idade}");
+cachorro.Envelhecer();
+Console.WriteLine($"A nova idade da {cachorro.Nome} e {cachorro.Idade}");
+
+Console.WriteLine("--------------------------------------------------------------------------------");
+Console.WriteLine(); 
+
+coelho.FazerBarulho("Chiar,Chiar");
+Console.WriteLine($"idade da {coelho.Nome}:{coelho.Idade}");
+coelho.Envelhecer();
+Console.WriteLine($"A nova idade da {coelho.Nome}:{coelho.Idade}");
+
+
