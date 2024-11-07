@@ -57,6 +57,9 @@ foreach (var Jogo in estoqueJogos)
 
 
 
+
+while (true)
+{
     Console.WriteLine(@$"
 1) Cadastrar jogo
 2) Listar jogos
@@ -64,9 +67,6 @@ foreach (var Jogo in estoqueJogos)
 ");
     //recebendo a opcao escolhida:
 int resposta = int.Parse(Console.ReadLine());
-
-while ( resposta < 3)
-{
 
     if (resposta == 1)
     {
