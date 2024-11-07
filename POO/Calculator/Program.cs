@@ -1,42 +1,49 @@
-﻿using System;
-using Calculator;
+﻿using Calculator.Classes;
+
+Console.Clear();
+Console.WriteLine($"***** PROGRAMA CALCULATOR *****");
+Console.WriteLine();
 
 
-Calculador calculadora = new calculator ();
+Console.Write("Informe o primeiro número: ");
+float n1 = float.Parse(Console.ReadLine());
+Console.Write("Informe o segundo número: ");
+float n2 = float.Parse(Console.ReadLine());
 
-Console.WriteLine("Digite o primeiro numero:");
-string numero1  = Console.ReadLine()!;
+Console.Write($@"
+    1) Somar
+    2) Subtrair
+    3) Multiplicar
+    4) Dividir
+    Digite a operação: ");
+string operacao = Console.ReadLine();
+Console.WriteLine();
 
-Console.WriteLine("Digite o segundo numero");
-carro.numero2  = Console.ReadLine()!;
+Calculadora calculadoraDaAnna = new Calculadora();
 
-Console.WriteLine("Qual operacao deseja utilizar:  soma, subtracao, multiplicacao ou divisao?");
-carro.numero2  = Console.ReadLine()!;
-
-
-if ( resposta == soma){
-int som  == (numero1 + numero2);
-int resultadofinal = som;
-
-else if(resposta == subtracao){
-int subtraca  == (numero1 - numero2);
-int resultadofinal = subtraca;
+if (operacao == "1")
+{
+    calculadoraDaAnna.Somar(n1, n2);
 }
+else if (operacao == "2")
+{
+    calculadoraDaAnna.Subtrair(n1, n2);
 
-
-else if(resposta == Multiplicao){
-int Multiplica  == (numero1 * numero2);
-int resultadofinal = Multiplica;
 }
+else if (operacao == "3")
+{
 
-else if (resposta == divisao){
-int divisa  == (numero1 * numero2);
-int resultadofinal == divisa;
+    calculadoraDaAnna.Multiplicar(n1, n2);
 }
-
+else if (operacao == "4")
+{
+    calculadoraDaAnna.Dividir(n1, n2);
+} 
 else {
-Console.WriteLine($"coloque um numero valido");
+    Console.WriteLine($"Operação Inválida!");
+    
+}
+Console.WriteLine();
 
-}
-Console.WriteLine($"A sua conta deu o resultado de {resultadofina}");
-}
+Console.WriteLine($"Obrigado por utilizar a Calculator, até logo!");
+Console.WriteLine();

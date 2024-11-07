@@ -40,7 +40,7 @@ Console.WriteLine($"Modelo do carro: {carro.modelo}");
 Console.WriteLine($"Potência do carro: {carro.potencia} CV");
 Console.WriteLine($"Quantidade de portas: {carro.qtdPortas}");
 Console.WriteLine($"Cor do carro: {carro.cor}");
-Console.WriteLine($"{carro.Acelerar(acelero)}");
+
 
 carro.Acelerar(acelero);
 carro.Ligar(ligo);
