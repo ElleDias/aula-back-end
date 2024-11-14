@@ -2,8 +2,16 @@
 personagem rpgpersonagem = new personagem();
 
 Console.Clear();
-Console.WriteLine($"***** PROGRAMA RPG *****");
+Console.WriteLine($"┍--------------------------------┑");
+Console.WriteLine($"|------------BEM-VINDO ----------|");
+Console.WriteLine($"|---------------AO---------------|");
+Console.WriteLine($"|-----------PROGRAMA RPG---------|");
+Console.WriteLine($"┕--------------------------------┙");
+
 Console.WriteLine();
+
+Console.WriteLine(@"Agora você irá descrever as caracteristicas do seu personagem, aperte enter para começar!
+");
 
 Console.Write("Define o nome do personagem: ");
 rpgpersonagem.Nomepg = Console.ReadLine();

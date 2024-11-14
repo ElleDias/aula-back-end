@@ -1,0 +1,15 @@
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\bin\Debug\net8.0\pilaresPOO.exe
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\bin\Debug\net8.0\pilaresPOO.deps.json
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\bin\Debug\net8.0\pilaresPOO.runtimeconfig.json
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\bin\Debug\net8.0\pilaresPOO.dll
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\bin\Debug\net8.0\pilaresPOO.pdb
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.AssemblyInfoInputs.cache
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.AssemblyInfo.cs
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.sourcelink.json
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.dll
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\refint\pilaresPOO.dll
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.pdb
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\pilaresPOO.genruntimeconfig.cache
+C:\Users\56184436864\Documents\aula-backend\POO\pilaresPOO\obj\Debug\net8.0\ref\pilaresPOO.dll

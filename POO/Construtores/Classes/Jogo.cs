@@ -24,7 +24,9 @@ Console.WriteLine(@$"
 nome: {nome2}
 genero: {genero}
 preco: {preco}
-lancamento = {lancamento}
+lancamento: {lancamento}
 ");}
+
+
     };
 } 
