@@ -1,12 +1,17 @@
-using PilaresPOO.Classes.Aprendizagem;
 
-namespace pilaresPOO.Classes.Aprendizagem
+
+namespace PilaresPOO.Classes.Aprendizagem
 {
-    public class Aluno : Pessoa
+    //Herança - aluno herda pessoa
+    public class Aluno : Pessoa 
     {
-        public string  matricula;
-        public string  curso;
-        public int  media;
-
+        // matricula
+        public int Matricula { get; set; }
+        
+        // curso
+        public string Curso { get; set; }
+        
+        // media
+        public float Media { get; set; }
     }
 }
